@@ -1,2 +1,2 @@
 # Web Scrapping-Wikipedia
- this is a multi-language wikipedia which is a web scrapping project rather than use of  API.
+ This is a Multi-Language Wikipedia which is a Web Scrapping and Flask project rather than use of API.
